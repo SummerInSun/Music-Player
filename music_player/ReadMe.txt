@@ -1,26 +1,13 @@
 ========================================================================
        WIN32 APPLICATION : DlgBaseProject
 ========================================================================
-´Ë¹¤³ÌÏòµ¼ÓÉÈçÅôÍø£¨www.RuPeng.com£©¿ª·¢
-ÈçÅôÍø£¨www.RuPeng.com£©£¬´óÑ§Éú¼ÆËã»úÑ§Ï°ÉçÇø£¬
-Ã¿ÖÜ¾Ù°ìÃâ·ÑÔÚÏß½²×ù£¬´óÁ¿ºÍ¼ÆËã»úÔÚÐ£ÉúÏà¹ØµÄÔ­´´ÎÄÕÂ¡¢ÊÓÆµ½Ì³ÌµÈÄãÀ´Ñ§£¡
 
-ÄãÊÇÏ²»¶¼ÆËã»úµÄÔÚÐ£´óÑ§ÉúÂð£¿
-ÄãÔÚÃÔ»ó¡°ÕâÃ´¶à¼¼Êõ¸ÃÔõÃ´Ñ§£¬Ñ§Ê²Ã´¸üÓÐÇ°Í¾¡±Âð£¿
-ÄãÔÚÃÔ»ó¡°¸Ã¿¼Ê²Ã´ÈÏÖ¤±ÏÒµ²ÅºÃÕÒ¹¤×÷¡±Âð£¿
-ÄãÏëÖªµÀÑ§Ê²Ã´¼¼Êõ±ÏÒµµÄÊ±ºò²ÅÄÜ»ñµÃÆóÒµµÄÇàíùÂð£¿
-ÄãÔÚÃÔ»ó¼ÆËã»ú×¨Òµ±ÏÒµºóµ½µ××öÊ²Ã´Âð£¿
-
-À´¡°ÈçÅôÍø£¨www.RuPeng.com£©¡±£¬ÕâÒ»ÇÐ¶¼¿ÉÒÔ±»ÇáËÉ½â´ð£¡
-
-
-
-AppWizard has created this ¸´Ñ¡¿ò application for you.  
+AppWizard has created this å¤é€‰æ¡† application for you.  
 
 This file contains a summary of what you will find in each of the files that
-make up your ¸´Ñ¡¿ò application.
+make up your å¤é€‰æ¡† application.
 
-¸´Ñ¡¿ò.cpp
+å¤é€‰æ¡†.cpp
     This is the main application source file.
 
 DlgBaseProject.dsp
@@ -34,7 +21,7 @@ Other standard files:
 
 StdAfx.h, StdAfx.cpp
     These files are used to build a precompiled header (PCH) file
-    named ¸´Ñ¡¿ò.pch and a precompiled types file named StdAfx.obj.
+    named å¤é€‰æ¡†.pch and a precompiled types file named StdAfx.obj.
 
 
 /////////////////////////////////////////////////////////////////////////////
